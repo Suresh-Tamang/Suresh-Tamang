@@ -3,7 +3,6 @@
 - 🌱 I’m currently Learning Machine Learning
 - 💞️ I’m looking to collaborate on real world problems
 - 📫 How to reach me : sureshtamangj@gmail.com
-- 😄 Pronouns: he
 - ⚡ Fun fact: 80% of a data scientist's time is typicallym spent cleaning and preparing data,
                 while only 20% is spent on actual analysis and model building.
 
