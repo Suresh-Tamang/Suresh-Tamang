@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suresh-Tamang
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently Learning Machine Learning / Data Engineering
+- 🌱 I’m currently Learning Machine Learning
 - 💞️ I’m looking to collaborate on real world problems
 - 📫 How to reach me : sureshtamangj@gmail.com
 - 😄 Pronouns: he
