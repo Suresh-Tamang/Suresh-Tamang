@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Suresh-Tamang
+-  👀 I’m interested in Web Development (Django)
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently Learning Machine Learning
 - 💞️ I’m looking to collaborate on real world problems
